@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Prasuna, a Computer Science undergrad at NIT Andhra Pradesh. I am very passionate about programming. I've been coding from the past two years in C/C++, Java, on various platforms like CodeChef, Hackerrank, GeeksforGeeks.
+<br>
 Apart from programming, I developed some Web Applications using HTML, CSS, PHP, MySQL. And also built basic Machine Learning models.
 
 📫 How to reach me: prasunap2001@gmail.com
